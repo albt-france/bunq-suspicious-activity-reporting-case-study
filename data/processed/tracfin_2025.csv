@@ -1,0 +1,11 @@
+metric,value,unit,source_url,published,read_on,note
+str_total_2025,278484,declarations,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,read in a browser (scripted requests receive 403)
+str_growth_2025,0.32,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,+32% in one year
+str_multiple_since_2015,6,times,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,flow multiplied by six since 2015
+financial_sector_str,258470,declarations,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,
+financial_sector_share,0.93,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,
+financial_sector_growth,0.31,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,vs 2024
+banks_growth,0.45,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,banks and credit institutions
+casp_str,4850,declarations,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,crypto-asset service providers (+58%)
+non_financial_share,0.07,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,
+non_financial_growth,0.38,share,https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025,2026-08-27,2026-11-18,

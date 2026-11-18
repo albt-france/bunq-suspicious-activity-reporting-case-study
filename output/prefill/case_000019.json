@@ -1,0 +1,18 @@
+{
+  "case_id": "case_000019",
+  "desk": "BNL",
+  "subject_id": "user_28662",
+  "account_id": "acct_28662",
+  "amount_eur": 10234.72,
+  "transaction_dates": "see case file",
+  "counterparty_country": "FR",
+  "counterparty_iban": "masked in draft",
+  "typology": "mule account",
+  "narrative_words": 478,
+  "alert_source": "monitoring_rule",
+  "alert_ts_utc": "2025-11-01 18:10:42.750765440",
+  "case_opened_ts_utc": "2025-11-03 17:29:41.442055578",
+  "deadline_paris_date": "2025-11-15",
+  "missing_fields": [],
+  "status": "READY FOR QA"
+}

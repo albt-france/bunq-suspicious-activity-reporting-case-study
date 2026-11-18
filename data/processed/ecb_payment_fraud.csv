@@ -1,0 +1,225 @@
+KEY,REF_AREA,TYP_TRNSCTN,FRD_TYP,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT,TITLE,retrieved
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2022-S1,190.60297687000002,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2022-S2,206.62803607,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2023-S1,211.37401562000002,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2023-S2,232.60844816000002,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2024-S1,237.89473338999997,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2024-S2,246.46910041,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2025-S1,209.21861509,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.EUR,FR,CP0,F,EUR,2025-S2,216.33398258,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2022-S1,3.101687,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2022-S2,3.2611429999999997,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2023-S1,3.047313,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2023-S2,3.2092159999999996,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2024-S1,3.542417,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2024-S2,3.5747260000000005,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2025-S1,3.2362189999999997,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1.F.N.PN,FR,CP0,F,PN,2025-S2,2.9811080000000008,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2022-S1,348340.90935822995,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2022-S2,388417.45196631,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2023-S1,387110.47787010006,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2023-S2,416915.09049522004,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2024-S1,409170.38452359,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2024-S2,436240.5289945,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2025-S1,423869.07757916,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.EUR,FR,CP0,_Z,EUR,2025-S2,456384.81734317,6,"Value of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2022-S1,8473.487416,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2022-S2,9344.975472000002,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2023-S1,9339.545020000001,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2023-S2,10074.403001,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2024-S1,10046.676528,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2024-S2,10809.77632,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2025-S1,10610.897485,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CP0.1._Z.N.PN,FR,CP0,_Z,PN,2025-S2,11431.833539,6,"Number of card payments, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2022-S1,166.79629569000002,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2022-S2,147.31578699,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2023-S1,155.90370478,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2023-S2,156.58374556,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2024-S1,160.21520719,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2024-S2,194.36965690999997,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2025-S1,235.24297918,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.EUR,FR,CT0,F,EUR,2025-S2,249.40912763,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2022-S1,0.035311,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2022-S2,0.041952,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2023-S1,0.044577,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2023-S2,0.04587600000000001,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2024-S1,0.052995,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2024-S2,0.077101,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2025-S1,0.109544,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1.F.N.PN,FR,CT0,F,PN,2025-S2,0.25679599999999997,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2022-S1,19148878.9489892,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2022-S2,19691924.35732809,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2023-S1,15205833.87260228,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2023-S2,14736327.107127799,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2024-S1,15355557.30443852,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2024-S2,15687473.65590543,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2025-S1,16217187.50563894,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.EUR,FR,CT0,_Z,EUR,2025-S2,16199546.31849479,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2022-S1,2531.4385759999996,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2022-S2,2649.9583150000003,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2023-S1,2753.401048,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2023-S2,2859.519211,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2024-S1,2965.073958,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2024-S2,3035.5428159999997,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2025-S1,3093.5715300000006,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.CT0.1._Z.N.PN,FR,CT0,_Z,PN,2025-S2,3268.3602010000004,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2022-S1,1043554.39894776,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2022-S2,1057149.41371618,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2023-S1,1114937.76733929,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2023-S2,1149709.95346811,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2024-S1,1138964.4118172398,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2024-S2,1166139.87149253,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2025-S1,1151123.83666887,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.EUR,FR,DD,_Z,EUR,2025-S2,1204239.94723431,6,"Value of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2022-S1,2430.311266,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2022-S2,2457.6265300000005,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2023-S1,2447.5235979999998,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2023-S2,2505.770986,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2024-S1,2528.957319,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2024-S2,2606.657877,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2025-S1,2611.346024,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.DD.1._Z.N.PN,FR,DD,_Z,PN,2025-S2,2687.1138140000003,6,"Number of direct debits, received",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2022-S1,0.02725321,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2022-S2,0.05746767,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2023-S1,0.10039485000000001,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2023-S2,0.07588099000000001,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2024-S1,0.04960104,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2024-S2,0.046274869999999996,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2025-S1,0.0293595,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.EUR,FR,EMP0,F,EUR,2025-S2,0.025474709999999998,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2022-S1,0.001124,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2022-S2,0.001051,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2023-S1,0.0011480000000000001,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2023-S2,0.001987,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2024-S1,0.0012040000000000002,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2024-S2,0.002028,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2025-S1,0.001141,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1.F.N.PN,FR,EMP0,F,PN,2025-S2,0.206153,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2022-S1,276.94666737,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2022-S2,369.70947201,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2023-S1,445.54766484,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2023-S2,546.09528267,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2024-S1,604.58558084,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2024-S2,643.8410400500001,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2025-S1,2787.2459372400003,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.EUR,FR,EMP0,_Z,EUR,2025-S2,9182.32955308,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2022-S1,47.443081,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2022-S2,38.402646000000004,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2023-S1,42.764731,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2023-S2,45.460149,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2024-S1,47.919406,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2024-S2,50.186260999999995,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2025-S1,51.171594000000006,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.FR.W0.EMP0.1._Z.N.PN,FR,EMP0,_Z,PN,2025-S2,50.337031,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2022-S1,12.75986162,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2022-S2,15.71007567,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2023-S1,16.58923738,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2023-S2,18.948239100000002,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2024-S1,17.3389215,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2024-S2,20.544726319999995,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2025-S1,20.44733386,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.EUR,NL,CP0,F,EUR,2025-S2,21.89362817,6,"Value of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2022-S1,0.114229,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2022-S2,0.130237,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2023-S1,0.13248100000000002,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2023-S2,0.174636,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2024-S1,0.18428800000000004,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2024-S2,0.227931,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2025-S1,0.25098,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1.F.N.PN,NL,CP0,F,PN,2025-S2,0.259447,6,"Number of card payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2022-S1,81935.79673116999,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2022-S2,91270.16736001,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2023-S1,89363.96279395997,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2023-S2,95859.17293417,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2024-S1,95194.74919657,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2024-S2,101387.50690819998,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2025-S1,99256.53046640998,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.EUR,NL,CP0,_Z,EUR,2025-S2,106620.50283314999,6,"Value of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2022-S1,2769.957842,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2022-S2,3096.1935359999998,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2023-S1,3068.508264,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2023-S2,3250.9469919999997,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2024-S1,3209.0404209999997,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2024-S2,3381.6531610000006,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2025-S1,3293.5798550000004,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CP0.1._Z.N.PN,NL,CP0,_Z,PN,2025-S2,3495.711873,6,"Number of card payments, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2022-S1,83.31647544999998,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2022-S2,69.85064641,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2023-S1,69.79282283,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2023-S2,69.1339506,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2024-S1,71.12172509999999,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2024-S2,75.34379294,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2025-S1,76.81826025,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.EUR,NL,CT0,F,EUR,2025-S2,97.49075423,6,"Value of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2022-S1,0.048425,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2022-S2,0.031775,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2023-S1,0.033408,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2023-S2,0.040442000000000006,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2024-S1,0.044915000000000004,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2024-S2,0.051487000000000005,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2025-S1,0.073024,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1.F.N.PN,NL,CT0,F,PN,2025-S2,0.077081,6,"Number of credit transfers, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2022-S1,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2022-S2,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2023-S1,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2023-S2,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2024-S1,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2024-S2,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2025-S1,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.EUR,NL,CT0,_Z,EUR,2025-S2,,6,"Value of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2022-S1,1967.674141,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2022-S2,1980.0399170000003,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2023-S1,2038.2859849999998,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2023-S2,2100.861354,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2024-S1,2169.120167,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2024-S2,2220.8043420000004,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2025-S1,2273.0922440000004,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.CT0.1._Z.N.PN,NL,CT0,_Z,PN,2025-S2,2328.484105,6,"Number of credit transfers, sent",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2022-S1,161647.49118306,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2022-S2,174502.51798124998,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2023-S1,177343.34429918,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2023-S2,184344.71944679,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2024-S1,186765.76511584,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2024-S2,192797.49707873998,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2025-S1,196188.45289696,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.EUR,NL,DD,_Z,EUR,2025-S2,206063.41119605,6,"Value of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2022-S1,900.586652,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2022-S2,939.9398610000001,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2023-S1,939.04983,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2023-S2,985.236657,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2024-S1,992.108709,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2024-S2,1014.782368,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2025-S1,1022.8802880000001,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.DD.1._Z.N.PN,NL,DD,_Z,PN,2025-S2,1060.360999,6,"Number of direct debits, received",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2022-S1,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2022-S2,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2023-S1,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2023-S2,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2024-S1,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2024-S2,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2025-S1,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.EUR,NL,EMP0,F,EUR,2025-S2,,6,"Value of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2022-S1,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2022-S2,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2023-S1,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2023-S2,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2024-S1,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2024-S2,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2025-S1,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1.F.N.PN,NL,EMP0,F,PN,2025-S2,,6,"Number of e-money payments, fraudulent transactions, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2022-S1,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2022-S2,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2023-S1,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2023-S2,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2024-S1,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2024-S2,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2025-S1,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.EUR,NL,EMP0,_Z,EUR,2025-S2,,6,"Value of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2022-S1,6.380275,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2022-S2,8.096526,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2023-S1,8.769204,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2023-S2,9.653706000000001,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2024-S1,8.316782,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2024-S2,8.719027,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2025-S1,15.291464,6,"Number of e-money payments, sent",2026-11-18
+PAY.H.NL.W0.EMP0.1._Z.N.PN,NL,EMP0,_Z,PN,2025-S2,23.690286,6,"Number of e-money payments, sent",2026-11-18

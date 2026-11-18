@@ -1,0 +1,21 @@
+{
+  "case_id": "case_006346",
+  "desk": "FR",
+  "subject_id": "user_36348",
+  "account_id": "acct_36348",
+  "amount_eur": 3748.12,
+  "transaction_dates": "see case file",
+  "counterparty_country": null,
+  "counterparty_iban": null,
+  "typology": "mule account",
+  "narrative_words": 392,
+  "alert_source": "monitoring_rule",
+  "alert_ts_utc": "2026-04-29 14:56:22.504389640",
+  "case_opened_ts_utc": "2026-05-11 09:36:40.461931676",
+  "deadline_paris_date": "2026-05-13",
+  "missing_fields": [
+    "counterparty_country",
+    "counterparty_iban"
+  ],
+  "status": "BLOCKED - complete the missing fields"
+}

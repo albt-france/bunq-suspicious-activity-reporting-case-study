@@ -1,0 +1,18 @@
+{
+  "case_id": "case_000024",
+  "desk": "BNL",
+  "subject_id": "user_05411",
+  "account_id": "acct_05411",
+  "amount_eur": 7088.19,
+  "transaction_dates": "see case file",
+  "counterparty_country": "BE",
+  "counterparty_iban": "masked in draft",
+  "typology": "fan-out",
+  "narrative_words": 599,
+  "alert_source": "monitoring_rule",
+  "alert_ts_utc": "2025-11-01 21:42:33.906392722",
+  "case_opened_ts_utc": "2025-11-04 12:47:14.648129962",
+  "deadline_paris_date": "2025-11-15",
+  "missing_fields": [],
+  "status": "READY FOR QA"
+}

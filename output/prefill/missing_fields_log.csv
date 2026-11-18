@@ -1,0 +1,4 @@
+case_id,missing_field,status
+case_006346,counterparty_country,BLOCKED - complete the missing fields
+case_006346,counterparty_iban,BLOCKED - complete the missing fields
+case_000114,narrative_words,BLOCKED - complete the missing fields

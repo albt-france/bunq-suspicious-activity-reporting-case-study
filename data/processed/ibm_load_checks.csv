@@ -1,0 +1,2 @@
+rows_in_file,rows_after_exact_dedup,exact_duplicates_removed,laundering_rows,accounts_seen,first_day,last_day,pattern_rows,laundering_attempts
+5078345,5078336,9,5177,515088,2022-09-01,2022-09-18,3209,370

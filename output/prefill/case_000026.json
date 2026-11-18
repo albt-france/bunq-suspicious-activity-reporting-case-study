@@ -1,0 +1,18 @@
+{
+  "case_id": "case_000026",
+  "desk": "FR",
+  "subject_id": "user_10561",
+  "account_id": "acct_10561",
+  "amount_eur": 184.46,
+  "transaction_dates": "see case file",
+  "counterparty_country": "ES",
+  "counterparty_iban": "masked in draft",
+  "typology": "rapid pass-through",
+  "narrative_words": 256,
+  "alert_source": "monitoring_rule",
+  "alert_ts_utc": "2025-11-01 22:10:22.803380004",
+  "case_opened_ts_utc": "2025-11-05 13:25:56.156586373",
+  "deadline_paris_date": "2025-11-15",
+  "missing_fields": [],
+  "status": "READY FOR QA"
+}
