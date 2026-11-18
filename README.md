@@ -8,12 +8,8 @@ in its 2025 annual report. Everything about the reporting desk itself is **SIMUL
 
 | Deliverable | Link |
 |---|---|
-| 8-page report (PDF) | [report/bunq_suspicious_activity_reporting_case_study.pdf](report/bunq_suspicious_activity_reporting_case_study.pdf) |
-| Interactive dashboard (one HTML file, offline) | [dashboard/reporting_dashboard.html](dashboard/reporting_dashboard.html) |
-| Workbook: weekly KPIs, CAP tracker, SLA calculator, gap analysis (Excel / Google Sheets formulas) | [excel/reporting_ops_tracker.xlsx](excel/reporting_ops_tracker.xlsx) |
-| Reporting procedure · KPI definitions · gap analysis · data-issues log · glossary | [docs/](docs/) |
-| Analysis notebook | [notebooks/analysis.ipynb](notebooks/analysis.ipynb) |
-| SQL (DuckDB) · Looker view (illustrative) | [sql/](sql/) · [lookml/](lookml/) |
+| 8-page report (PDF) | [bunq_suspicious_activity_reporting_case_study.pdf](https://github.com/albt-france/bunq-suspicious-activity-reporting-case-study/blob/main/report/bunq_suspicious_activity_reporting_case_study.pdf) |
+| Interactive dashboard | [Open the dashboard](https://albt-france.github.io/bunq-suspicious-activity-reporting-case-study/dashboard/reporting_dashboard.html) |
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
